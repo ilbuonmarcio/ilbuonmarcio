@@ -1,7 +1,5 @@
 # Hi, I'm [@ilbuonmarcio](https://github.com/ilbuonmarcio), a turtle person 🐢
 
-![im dumb](https://blog.ilbuonmarcio.dev/res/img/profilepic.png)
-
 I'm a ~professional~ developer 👨‍💻, Linux enthusiast 🐧 and Python evangelist 🐍.
 
 I like reading books 📚, psychology 🧠, everything tech 💾 and breathing 🍃. Especially the last one!
