@@ -1,4 +1,4 @@
-# Hi, I'm @ilbuonmarcio, a turtle person 🐢
+# Hi, I'm [@ilbuonmarcio](https://github.com/ilbuonmarcio), a turtle person 🐢
 
 ![im dumb](https://blog.ilbuonmarcio.dev/res/img/profilepic.png)
 
