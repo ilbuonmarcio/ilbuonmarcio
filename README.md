@@ -1,12 +1,12 @@
-# Hi, I'm @ilbuonmarcio, a turtle person
+# Hi, I'm @ilbuonmarcio, a turtle person 🐢
 
 ![im dumb](https://blog.ilbuonmarcio.dev/res/img/profilepic.png)
 
-I'm a professional web developer, Linux enthusiast and Python evangelist.
+I'm a ~professional~ developer 👨‍💻, Linux enthusiast 🐧 and Python evangelist 🐍.
 
-I like reading books, psychology, everything tech and breathing. Especially the last one!
+I like reading books 📚, psychology 🧠, everything tech 💾 and breathing 🍃. Especially the last one!
 
-Recently I started working more and more on myself to better understand what I'm really capable of doing with my potential, and it seems to work :)
+Recently I started working more and more on myself to better understand what I'm really capable of doing with my potential, and it seems to work so I'm happy with the results :)
 
 ## FAQ
 
@@ -19,6 +19,8 @@ What is your opinion about the world? _It should be a friendlier place, but it s
 Do you like drinking? _That's a stupid question._
 
 What's your favourite person? _You 🤍_
+
+Awwwww _I know right c:_
 
 Seems like you know the difference between staying on your own and alone, right? _u rite my friend_
 
