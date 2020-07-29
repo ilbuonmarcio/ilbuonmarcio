@@ -12,7 +12,7 @@ Are you a turtle? _yes_
 
 Really? _obv_
 
-What is your opinion about the world? _It should be a friendlier place, but it should start by ourselves, the only one in control of changing things; we should not wait for anyone but us in the first place!_
+What is your opinion about the world? _It should be a friendlier place, but change should start by ourselves, the only one in control of changing things; we should not wait for anyone but us in the first place!_
 
 Do you like drinking? _That's a stupid question._
 
