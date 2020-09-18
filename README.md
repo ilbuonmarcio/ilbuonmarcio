@@ -1,5 +1,16 @@
-# Hi, I'm [@ilbuonmarcio](https://github.com/ilbuonmarcio), a turtle person 🐢
+# Hi, I'm Alex :)
 
-I'm a ~professional~ developer 👨‍💻, Linux enthusiast 🐧 and Python evangelist 🐍.
+Summary of me personally:
+- A turtle over a rabbit
+- CentOS over Debian
+- ArchLinux over Manjaro over Ubuntu
+- Linux over Windows over macOS
+- Software Development over System Administrator Engineering & DevOps
+- Python over PHP
+- PostgreSQL over MySQL
+- Docker over being silly and dumb and waste time better spent off other things
+- Simple over complex
+- Complex over complicated
+- Less over more, less is more
 
-I like reading books 📚, psychology 🧠, everything tech 💾 and breathing 🍃. Especially the last one!
+For business related stuff or for catching up with me, alessandro.marchioro1998@gmail.com is a good place to write!
