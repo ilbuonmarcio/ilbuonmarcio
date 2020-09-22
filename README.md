@@ -13,4 +13,7 @@ Summary of me personally:
 - Complex over complicated
 - Less over more, less is more
 
+But most importantly:
+- Life over computers
+
 For business related stuff or for catching up with me, alessandro.marchioro1998@gmail.com is a good place to write!
