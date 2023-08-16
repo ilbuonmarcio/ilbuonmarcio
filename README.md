@@ -24,9 +24,9 @@ My primary focuses are `consultancy` 👨🏽‍⚕️, `automation` ⚙️, `vu
 
 Here's some GitHub flex just for you! 💪🏻
 
-![my stats](https://readme.ilbuonmarcio.dev/?username=ilbuonmarcio&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![my stats](https://readme.ilbuonmarcio.dev/?username=ilbuonmarcio&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![my most used languages](https://readme.ilbuonmarcio.dev/top-langs/?username=ilbuonmarcio&theme=midnight-purple&hide=shell,css,html&hide_progress=true)
+![my most used languages](https://readme.ilbuonmarcio.dev/top-langs/?username=ilbuonmarcio&theme=tokyonight&hide=shell,css,html&hide_progress=true)
 
 If you have a project in mind feel free to get in touch! 🤓 🔥
 
