@@ -14,7 +14,7 @@ class AboutMe():
             "challenges": "Conquering bugs and debugging dragons"
         }
         self.fun_fact = """Challenges are what make life interesting,
-                           and overcoming them is what makes life meaningful."
+                           and overcoming them is what makes life meaningful."""
 
     def favourite_motto(self):
         return "Hard work beats talent when talent doesn't work hard!"
