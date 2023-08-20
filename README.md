@@ -13,7 +13,8 @@ class AboutMe():
             "tools": ["Flask", "Laravel", "Docker", "Git", "VS Code", "MariaDB", "SQL Server"],
             "challenges": "Conquering bugs and debugging dragons"
         }
-        self.fun_fact = "Challenges are what make life interesting, and overcoming them is what makes life meaningful."
+        self.fun_fact = """Challenges are what make life interesting,
+                           and overcoming them is what makes life meaningful."
 
     def favourite_motto(self):
         return "Hard work beats talent when talent doesn't work hard!"
