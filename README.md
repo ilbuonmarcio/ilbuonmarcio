@@ -8,9 +8,9 @@ class AboutMe():
         self.work_status = "Self-Employed"
         self.pronouns = "👉 it/its"
         self.code = {
-            "languages": ["Python", "PHP", "JavaScript", "C#", "HTML", "CSS/SCSS"],
-            "OSes": ["macOS", "Arch Linux", "Debian", "CentOS", "Ubuntu"],
-            "tools": ["Flask", "Laravel", "Docker", "Git", "VS Code", "MariaDB", "SQL Server"],
+            "languages": ["Python", "PHP", "C++","JavaScript", "C#", "HTML", "CSS/SCSS"],
+            "OSes": ["macOS", "Arch Linux", "Debian", "RHEL & derivates"],
+            "tools": ["Flask", "Laravel", "Docker", "Git", "VS Code", "MariaDB", "SQL Server", "ClickHouse"],
             "challenges": "Conquering bugs and debugging dragons"
         }
         self.fun_fact = """Challenges are what make life interesting,
